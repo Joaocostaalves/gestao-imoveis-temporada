@@ -12,4 +12,4 @@ pagamentos e avaliações.
 
 - MongoDB
 - GitHub
-- Markdown
+- Markdown.
