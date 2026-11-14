@@ -427,3 +427,6 @@ Informações pequenas e diretamente relacionadas ao documento principal foram d
 Informações independentes, com grande volume de dados ou que possuem consultas próprias, foram definidas como collections separadas.
 
 Essa abordagem permite uma estrutura mais flexível, melhora o desempenho das consultas e aproveita as características de bancos de dados NoSQL.
+
+
+---
