@@ -1,10 +1,6 @@
 
 # Relacionamentos e Estratégia de Modelagem — MongoDB
 
-Sistema de Gerenciamento de Imóveis por Temporada — Atividade 3 (PT-3)
-
-Banco: `gestao_imoveis_temporada` · Scripts em `mongodb/` (01 a 05).
-
 ---
 
 ## 1. Entidades envolvidas
